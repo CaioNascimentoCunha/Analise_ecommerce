@@ -1,4 +1,5 @@
-# Analise_ecommerce
+# Dashboard em Power BI para analise de resultados de um E-commerce
+
 Desenvolvi um painel gerencial para o acompanhamento de métricas de negócios de um e-commerce.
 
 Esse dash tem como função ser um relatorio objetivo, de fácil customização e uso recorrente, onde os gestores desse e-commerce podem visualizar e analisar informações chave sobre o desempenho da empresa. Por meio de gráficos, tabelas e filtros interativos, os gestores poderão monitorar as vendas, identificar tendências, tomar decisões estratégicas e acompanhar o crescimento do negócio.
