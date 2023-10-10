@@ -1,4 +1,4 @@
-# Dashboard em Power BI para analise de resultados de um E-commerce
+# Relatório em Power BI para analise de resultados de um E-commerce
 
 Desenvolvi um painel gerencial para o acompanhamento de métricas de negócios de um e-commerce.
 
